@@ -6,7 +6,7 @@ const skillsData = [
   'C',
   'C++',
   'C#',
-  '.Net',
+  '.net framework',
   'HTML',
   'CSS',
   'Bootstrap',
@@ -15,8 +15,10 @@ const skillsData = [
   'MySql',
   'Python',
   'Django',
-
-
+  'docker',
+  'Php',
+  'Shell',
+  'PostgreSQL',
 ]
 
 export { skillsData };

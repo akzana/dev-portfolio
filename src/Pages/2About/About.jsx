@@ -2,7 +2,6 @@
 import React from "react";
 import Service from "./1Service";
 import Text from "./1Text";
-// import Skill from "../2About/1Skill";
 
 import SkillsCarousel from "../2About/1Skill";
 

@@ -13,9 +13,9 @@ import experience from "../../Data/Experience";
 import volunteering from "../../Data/Volunteering";
 
 function Resume() {
-  const [isExperienceOpen, setIsExperienceOpen] = useState(false);
-  const [isEducationOpen, setIsEducationOpen] = useState(false);
-  const [isVolunteeringOpen, setIsVolunteeringOpen] = useState(false);
+  const [isExperienceOpen, setIsExperienceOpen] = useState(true);
+  const [isEducationOpen, setIsEducationOpen] = useState(true);
+  const [isVolunteeringOpen, setIsVolunteeringOpen] = useState(true);
 
   const toggleVolunteering = () => {
     setIsVolunteeringOpen(!isVolunteeringOpen);

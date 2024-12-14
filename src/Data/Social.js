@@ -26,13 +26,6 @@ const socialMedia = [
     link: 'https://linkedin.com/in/erenakbas',
     icon: LinkedIn
   },
-  // {
-  //   id: 4,
-  //   name: 'logo-phone',
-  //   type: 'phone',
-  //   link: '05379234261',
-  //   icon: Phone
-  // },
   {
     id: 5,
     name: 'logo-mail',
