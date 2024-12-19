@@ -52,10 +52,3 @@ https://<your-username>.github.io/<your-repo>
 npm install --save gh-pages
 npm run deploy
 ```
-
-<br>
-
-<h2 align="left">Support:</h2>
-<p>
-  <a href="https://www.buymeacoffee.com/merenakbas"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" height="75"</img></a>
-</p>
