@@ -1,5 +1,5 @@
 import badi from '../assets/career/badi.png';
-import flo from '../assets/career/flo.png';
+// import flo from '../assets/career/flo.png';
 
 const experience = [
     {
@@ -12,7 +12,7 @@ const experience = [
     },
     {
       title: 'FLO Mağazacılık',
-      image: flo,
+      // image: flo,
       position: 'Intern',
       year: '2023 Ağustos - 2023 Eylül',
       description:
