@@ -1,10 +1,9 @@
-// import photo from '../assets/images/profile.jpeg';
-
+import profile from '../assets/images/profile.jpg';
 const Profile = {
-    name: 'Muhammed Eren',
-    surname: 'AKBAŞ',
-    title: 'Yazılım Geliştirici',
-    // image: photo,
+    name: 'Akzana',
+    surname: 'Klepsch',
+    title: 'Softeware Developer',
+    image: profile,
 
 }
 

@@ -1,14 +1,14 @@
-import badi from '../assets/career/badi.png';
+import ih from '../assets/career/ih-color-96low-res.jpg';
 // import flo from '../assets/career/flo.png';
 
 const experience = [
     {
-      title: 'Badi Etkinlik',
-      image: badi,
-      position: 'Veri Analisti',
-      year: '2023 Eylül - Halen',
+      title: 'Island Health',
+      image: ih,
+      position: 'Clinical Information Analyst',
+      year: 'APR 2021 - JUN 2024',
       description:
-        'Yapılan etkinlik verilerinin işlenmesi ve düzenlenmesi ile ilgileniyorum. Etkinlik katılımlarından alınan dönüşleri analiz edip bunlara uygun etkinliklerin yapılmasını planlıyorum. Website ve uygulamaların geliştirilmesi konularında destek sağlayıp kendimi geliştiriyorum.'
+        'Provided back-end tech support on a variety of Oracle Cerner, Philips,and Microsoft health information applications to >1K health care providers across the health region by addressing user requests in ServiceNow for troubleshooting and following up with the user promptly after solving the technical problem'
     },
     {
       title: 'FLO Mağazacılık',
