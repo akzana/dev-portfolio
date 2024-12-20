@@ -5,7 +5,7 @@ import Solong from '../assets/images/projects/solong.png';
 
 const project = [
   {
-    name: 'Ping Pong Game',
+    name: 'Frog Stream',
     photo: Minishell,
     category: 'python',
     text: 'Okulumun son projesi olarak yaptığım bu projede Python ve Django kullanarak bir web tabanlı ping-pong oyunu geliştirdim. Bu proje, kullanıcıların ister normal şekilde kayıt olup ya da 42API ile giriş yaparak birbirleriyle ping-pong ve taş-kağıt-makas oynayabileceği ve arkadaşlık ilişkileri kurabileceği bir platform sundum. Yapay zekaya karşı oynanan oyunlarda istatistik tutularak kullanıcıların oyun geçmişi ve oyun istatistiklerine grafiksel olarak yer verildi. ',

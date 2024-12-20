@@ -12,7 +12,7 @@ function About() {
   return (
     <article className="about active" data-page="about">
       <header>
-        <h2 className="h2 article-title">Hakkımda</h2>
+        <h2 className="h2 article-title">Welcome</h2>
       </header>
       <section className="about-text">
         {text.map((item, index) => (
@@ -20,7 +20,7 @@ function About() {
         ))}
       </section>
       <section className="service">
-        <h3 className="h3 service-title">Neler Yapıyorum?</h3>
+        <h3 className="h3 service-title">Check this out</h3>
         <ul className="service-list">
           {service.map((item, index) => (
             <Service key={index} item={item} />
@@ -28,7 +28,7 @@ function About() {
         </ul>
       </section>
       <section className="skill">
-        <h3 className="h3 skills-title">Yetenekler</h3>
+        <h3 className="h3 skills-title">My Toolbelt</h3>
         <div>
           <SkillsCarousel />
         </div>

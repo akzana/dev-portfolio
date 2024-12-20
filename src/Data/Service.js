@@ -1,18 +1,18 @@
 const service = [
     {
-        name: 'Web Programlama',
-        description: "Full-Stack Web Developer olarak PHP Laravel öğrenmekte ve projeler geliştirmekteyim.",
-        icon: ['Html', 'Css', 'Bootstrap', 'JavaScript', 'PHP'],
+        name: 'Full-Stack Web Development',
+        description: "Experienced in the MERN stack (MySQL, Express.js, ReactJS, Node.js).",
+        icon: ['Html', 'Css', 'JavaScript', 'MySQL', "React"],
     },
     {
-        name: 'Flutter',
-        description: "UI/UX tasarımları geliştirip Firebase veritabanı ile projeler geliştirmekteyim.",
-        icon: ['Flutter', 'Firebase'],
+        name: 'Automation',
+        description: "Skilled in automating tasks using Python and Arduino.",
+        icon: ['Python', 'arduino'],
     },
     {
-        name: 'Masaüstü Programlama',
-        description: "C# .Net Framework ile eğitimime devam etmekteyim. Bu eğitimde katmanlı mimari, EF6 ve tasarım desenleri ve birçok ileri düzey konular hakkında proje örnekleri yaparak deneyim kazanmaktayım.",
-        icon: ['C#', '.net framework'],
+        name: 'Wireframing & Prototyping',
+        description: "Efficient in creating wireframes and prototypes using industry standard design programs.",
+        icon: ['Canva', 'Figma'],
     }
 ]
 

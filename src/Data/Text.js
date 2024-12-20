@@ -1,13 +1,13 @@
 const text = [
     {
-        paragraph: 
-        "Merhaba! Ben Muhammed Eren, sürekli öğrenmeye açık bir yazılım geliştiricisiyim. Dumlupınar Üniversitesi'nde okurken C# kursu ile yazılıma ilk adımlarımı atıp, otomasyon projemi tasarlamaya başladım."
+        paragraph:
+            "I'm a software engineer and innovator. I'm passionate about user-friendly design and creating software that is both intuitive and efficient. I have experience in full-stack web development, mobile app development, and desktop programming. I'm always looking for new challenges and opportunities to learn and grow."
     },
     {
-        paragraph: "Yazılıma C# temellerini öğrendikten sonra .NET Framework, katmanlı mimari, EF6 ve tasarım desenleri ile projeler geliştirerek bilgi sahibi oldum.Son iki senedir 42İstanbul'da C ve C++ dillerinde eğitim alarak kendimi geliştirdim."
+        paragraph: "I'm open to working in full-stack web development, mobile app development, and desktop programming, without limitations. I'm quick to learn and adapt to new technologies."
     },
     {
-        paragraph: "En son tamamladığım full-stack web projesinde yeni teknolojiler ve farklı deneyimler kazandım. Flutter ve Firebase ile mobil uygulama geliştirme konusunda da başlangıç seviye eğitimler aldım ve başlangıç seviye projeler geliştirdim."
+        paragraph: "In my off-time, I am gaming, crocheting, and paddle boarding. I enjoy mountain biking and reading comic books."
     },
 
 ]

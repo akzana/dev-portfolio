@@ -22,7 +22,7 @@ const contact = [
     },
     {
       title: 'Hobbies',
-      value: 'Crochet, Gaming, Coding',
+      value: 'Crochet, Gaming, Biking',
       icon: <MdGamepad size={25}/>
     }
   ];

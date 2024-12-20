@@ -3,12 +3,12 @@ import ih from '../assets/career/ih-color-96low-res.jpg';
 
 const experience = [
     {
-      title: 'Island Health',
+      title: 'IM/IT - Island Health',
       image: ih,
-      position: 'Clinical Information Analyst',
+      position: 'Clinical Applications Analyst',
       year: 'APR 2021 - JUN 2024',
       description:
-        'Provided back-end tech support on a variety of Oracle Cerner, Philips,and Microsoft health information applications to >1K health care providers across the health region by addressing user requests in ServiceNow for troubleshooting and following up with the user promptly after solving the technical problem'
+        'Provided back-end tech support on a variety of Oracle Cerner, Philips, and Microsoft health information applications to >1K health care providers across the region. Addressed user requests in ServiceNow for troubleshooting and following up with the user promptly after solving the technical problem. Took ownership of new builds.'
     },
     {
       title: 'FLO Mağazacılık',

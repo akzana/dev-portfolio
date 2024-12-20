@@ -2,6 +2,7 @@ import * as adobeXd from '../assets/skills/adobe-xd.svg';
 import adobeaudition from '../assets/skills/adobeaudition.svg';
 import afterEffects from '../assets/skills/after-effects.svg';
 import angular from '../assets/skills/angular.svg';
+import arduino from '../assets/skills/arduino.svg';
 import aws from '../assets/skills/aws.svg';
 import azure from '../assets/skills/azure.svg';
 import blender from '../assets/skills/blender.svg';
@@ -57,6 +58,7 @@ import python from '../assets/skills/python.svg';
 import pytorch from '../assets/skills/pytorch.svg';
 import react from '../assets/skills/react.svg';
 import ruby from '../assets/skills/ruby.svg';
+import sass from '../assets/skills/sass.svg';
 import selenium from '../assets/skills/selenium.svg';
 import sketch from '../assets/skills/sketch.svg';
 import strapi from '../assets/skills/strapi.svg';
@@ -91,6 +93,8 @@ export const skillsImage = (skill) => {
         return afterEffects;
       case 'angular':
         return angular;
+      case 'arduino':
+        return arduino;
       case 'aws':
         return aws;
       case 'azure':
@@ -201,6 +205,8 @@ export const skillsImage = (skill) => {
         return react;
       case 'ruby':
         return ruby;
+      case 'sass': 
+        return sass;
       case 'selenium':
         return selenium;
       case 'shell':
