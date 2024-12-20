@@ -32,14 +32,14 @@ function Resume() {
   return (
     <article className="resume active" data-page="resume">
       <header>
-        <h2 className="h2 article-title">Kariyer</h2>
+        <h2 className="h2 article-title">Experience</h2>
       </header>
       <section className="timeline">
         <div className="title-wrapper" onClick={toggleExperience}>
           <div className="icon-box">
             <MdWork size={24} />
           </div>
-          <h3 className="h3">İş</h3>
+          <h3 className="h3">Work</h3>
         </div>
         <ol className={`timeline-list exp ${isExperienceOpen ? 'open' : ''}`}>
           {experience.map((item, index) => (
@@ -53,7 +53,7 @@ function Resume() {
           <div className="icon-box">
             <FaGraduationCap size={24} />
           </div>
-          <h3 className="h3">Eğitim</h3>
+          <h3 className="h3">Education</h3>
         </div>
         <div className={`timeline-list ${isEducationOpen ? 'open' : ''}`}>
           {education.map((item, index) => (
@@ -67,7 +67,7 @@ function Resume() {
           <div className="icon-box">
             <MdVolunteerActivism size={24} />
           </div>
-          <h3 className="h3">Gönüllülük</h3>
+          <h3 className="h3">Volunteer</h3>
         </div>
         <div className={`timeline-list ${isVolunteeringOpen ? 'open' : ''}`}>
           {volunteering.map((item, index) => (

@@ -1,29 +1,29 @@
 import {  MdLocationOn   } from "react-icons/md";
-import { FaCalendar, FaCarAlt } from "react-icons/fa";
-import { GiPistolGun  } from "react-icons/gi";
+import {  FaFire  } from "react-icons/fa";
+import { MdEmail } from "react-icons/md";
+import { MdGamepad } from "react-icons/md";
 
 
 const contact = [
     {
-      title: 'Doğum Tarihi',
-      value: '2 Kasım 2001',
-      dateTime: '2001-11-02',
-      icon: <FaCalendar  size={25}/>
-    },
-    {
-      title: 'Adres',
-      value: 'Gaziosmanpasa, Istanbul',
+      title: 'Location',
+      value: 'Esqiumalt, BC',
       icon: <MdLocationOn size={25}/>
     },
     {
-      title: 'Ehliyet',
-      value: 'B1',
-      icon: <FaCarAlt size={25}/>
+      title: 'Email',
+      value: 'sayhello@akzana.is-a.dev',
+      icon: <MdEmail size={25}/>
     },
     {
-      title: 'Askerlik',
-      value: 'Muaf',
-      icon: <GiPistolGun size={25}/>
+      title: 'Motivation',
+      value: 'User Dignity, Innovation, Teamwork',
+      icon: <FaFire size={25}/>
+    },
+    {
+      title: 'Hobbies',
+      value: 'Crochet, Gaming, Biking',
+      icon: <MdGamepad size={25}/>
     }
   ];
 

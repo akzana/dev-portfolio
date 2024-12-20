@@ -71,7 +71,7 @@ function Projects() {
                 <p>{project.text}</p>
               </div>
               <div className="project-detail-info">
-                <p>Detaylar ve uygulama bağlantısı için tıklayın</p>
+                <p>Click for details</p>
               </div>
           </li>
         ))}

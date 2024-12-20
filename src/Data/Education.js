@@ -1,21 +1,21 @@
-import ft from '../assets/career/ecole42.png';
-import dpu from '../assets/career/dpu.png';
+import uvic from '../assets/career/uvic-logo.jpg';
+import bs from '../assets/career/Brainstation Logo.png';
 
 const education = [
     {
-        school: "Ecole42",
-        image:ft,
-        department: "Yazılım Geliştirme",
-        date: "2022 - 2024",
-        desc: "C ile başladığım eğitimimde projeler geliştirdim ve C++ ile projelere devam ettim. Şuan Ekip projemiz olan 'çok oyunculu ping-pong websitesi' uygulamasını geliştiriyorum."
+        school: "BrainStation",
+        image: bs,
+        department: "Diploma in Software Engineering",
+        date: "SEPT 2024 - DEC 2024",
+        desc: "Quickly learned the fundamentals of software engineering, including programming languages, data structures, algorithms, and software design. Developed a full-stack web application using React, Node.js, and MySQL. Collaborated with colleagues in hackathons to build a project using Agile methodologies in Jira and Gitflow."
     },
     {
-        school: "Dumlupınar Üniversitesi",
-        image:dpu,
-        department: "Bilgisayar Programcılığı",
-        date: "2020 - 2023",
-        desc: "C# kursu aldım ve bu kurs sayesinde yazılım geliştirme konusunda kendimi geliştirdim. 'Kütüphane Otomasyon' uygulamasını bu kurstan öğrendiklerim ile geliştirdim."
+        school: "University of Victoria",
+        image: uvic,
+        department: "Bachelor's of Science in Health information Science",
+        date: "JAN 2018 - NOV 2021",
+        desc: "Studied health information science, including health data analytics, health information systems, and health data management. Developed a health information system using Python, HTML, and SQL. Visualised health data using Tableau and PowerBI. Completed multiple co-op terms in diverse teams in health authorities and government offices."
     },
-  ]
+]
 
-  export default education;
+export default education;

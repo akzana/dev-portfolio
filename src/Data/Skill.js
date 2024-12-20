@@ -1,24 +1,19 @@
 
 const skillsData = [
-  'Flutter',
-  'Dart',
-  'Firebase',
-  'C',
-  'C++',
-  'C#',
-  '.net framework',
+
   'HTML',
   'CSS',
-  'Bootstrap',
+  'Figma',
   'JavaScript',
   'Git',
   'MySql',
   'Python',
-  'Django',
-  'docker',
-  'Php',
-  'Shell',
-  'PostgreSQL',
+  'React',
+  "Arduino",
+  'Canva',
+  'Sass',
+  "Jira",
+  "ViteJS"
 ]
 
 export { skillsData };
