@@ -12,6 +12,7 @@ const skillsData = [
   "Arduino",
   'Canva',
   'Sass',
+  "Jira",
 ]
 
 export { skillsData };
