@@ -1,4 +1,7 @@
-import participation from "../assets/images/certificates/Certificate of Participation_page-0001.jpg"
+import participation from "../assets/images/certificates/Certificate of Participation_page-0001.jpg";
+import planning from "../assets/images/certificates/PM-Planning_page-0001.jpg";
+import foundation from "../assets/images/certificates/PM-Foundations_page-0001.jpg";
+import init from "../assets/images/certificates/PM-Initiation.jpeg";
 
 const certificate = [
     {
@@ -7,35 +10,21 @@ const certificate = [
         category: "Hackathon",
     },
     {
-        // photo: cs201,
-        name: "C# 201",
-        category: "C#",
+        photo: planning,
+        name: "Google Project Planning",
+        category: "Project Management",
     },
     {
-        // photo: ai_akbank,
-        name: "AI Literacy Bootcamp",
-        category: "AI",
+        photo: foundation,
+        name: "Google Project Foundations",
+        category: "Project Management",
     },
     {
-        // photo: git,
-        name: "Git ve GitHub",
-        category: "Git",
+        photo: init,
+        name: "Google Project Initiation",
+        category: "Prokect Management",
     },
-    {
-        // photo: html5,
-        name: "HTML5",
-        category: "Web",
-    },
-    {
-        // photo: intro_machine_learning,
-        name: "Introduction to Machine Learning",
-        category: "Machine Learning",
-    },
-    {
-        // photo: intro_python1,
-        name: "Introduction to Python",
-        category: "Python",
-    },
-  ]
 
-  export default certificate;
+]
+
+export default certificate;

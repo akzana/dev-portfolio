@@ -1,5 +1,4 @@
 import ih from '../assets/career/ih-color-96low-res.jpg';
-// import flo from '../assets/career/flo.png';
 
 const experience = [
   {
