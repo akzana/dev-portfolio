@@ -7,7 +7,7 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    background: hsla(240, 1%, 17%, 0.75);
+    background: hsla(181, 38%, 25%, 0.332);
     backdrop-filter: blur(10px);
     border-radius: 12px 12px 0 0;
     box-shadow: var(--shadow-2);
