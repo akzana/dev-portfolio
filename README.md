@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/erenakbas57/Portfolio/master/src/assets/portfolio.png" alt="project-screenshot" width="900" height="400/">
+<img src="./src/assets/portfolio.png" alt="project-screenshot" width="900" height="400/">
 <br><br>
 <h2>🛠️ Installation Steps:</h2>
 <br>
