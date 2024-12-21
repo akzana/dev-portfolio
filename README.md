@@ -1,6 +1,6 @@
 <h1 align="left" id="title">Portfolio Website</h1>
 <br>
-<p id="description">I redesigned a site developed with HTML and CSS that I found on GitHub, using Node.js and React to make it dynamic and make various aesthetic changes without any hassle.</p>
+<p id="description">I redesigned a react app I found and forked.</p>
 
 
 <br>
@@ -12,8 +12,8 @@
 
 
 ```
-git clone https://github.com/<your-username>/Portfolio.git
-cd Portfolio
+git clone https://github.com/<your-username>/dev-portfolio.git
+cd dev-portfolio
 npm i
 npm start
 ```
